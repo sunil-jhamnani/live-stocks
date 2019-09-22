@@ -1,6 +1,6 @@
 # Live Stock app
 
-## How to use
+## Steps for the setup
 
 Execute the following commond to run the application locally
 
